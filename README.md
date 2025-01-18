@@ -1,7 +1,6 @@
 # 2023 . 11. 04 
-# <프로젝트 계획 후 ER 다이어그램 (개발 착수 전)>
-![프로젝트_ERD_5532960_정세곤 (1)](https://github.com/user-attachments/assets/81aa2889-a714-491c-a6b8-b5551f92b48f)
-
+# <프로젝트 계획 후 ER 다이어그램>
+![image](https://github.com/user-attachments/assets/9c1516c7-6b2b-4585-a03b-c89fe7788fce)
 
 # 🌟 Windows Forms 기반 데이터 관리 시스템 🌟
 
